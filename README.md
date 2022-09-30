@@ -6,6 +6,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/iBlz/tplink-smartplug-controller/main/images/Screenshot.jpg"></a>
 </h1>
+
 ## Info
 - Exe made with auto-py-to-exe
 - Made with tkinter
